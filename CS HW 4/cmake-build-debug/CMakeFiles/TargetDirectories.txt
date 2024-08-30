@@ -1,0 +1,3 @@
+C:/Users/maste/CLionProjects/Intro To CS HW/CS HW 4/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/maste/CLionProjects/Intro To CS HW/CS HW 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maste/CLionProjects/Intro To CS HW/CS HW 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
